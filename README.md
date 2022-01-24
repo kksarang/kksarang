@@ -44,7 +44,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/alexvarghesevaas">
+  <a href="https://gitstats.me/SARANG">
     <img width="500" height="auto" align="right" alt="alexvarghesevaas's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=alexvarghesevaas&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
