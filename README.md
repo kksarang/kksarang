@@ -1,8 +1,9 @@
+<a id="top"></a>
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Sarang%20Rajan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mobile%20Team%20Lead%20%7C%20Flutter%20and%20Native%20Developer%20%7C%20Founder&descAlignY=60&descSize=16)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Application+Team+Lead+%40+Viewy+Digital;Flutter+%E2%80%A2+Android+%E2%80%A2+iOS+%E2%80%A2+React+Native;Kotlin+%E2%80%A2+Java+%E2%80%A2+Swift+%E2%80%A2+Dart;Founder+%E2%80%94+InfoparkDaily+%26+Enitexa.ai;Building+scalable+mobile+products" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Application+Team+Lead+%40+Viewy+Digital;Flutter+%7C+Android+%7C+iOS+%7C+React+Native;Kotlin+%7C+Java+%7C+Swift+%7C+Dart;Founder+of+InfoparkDaily+%26+Enitexa.ai;Ship+fast.+Scale+clean." alt="Typing SVG"/></a>
 
 <p>
 <a href="https://sarangrajan.in/"><img src="https://img.shields.io/badge/Portfolio-sarangrajan.in-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -11,7 +12,30 @@
 <a href="https://infoparkdaily.online/"><img src="https://img.shields.io/badge/InfoparkDaily-68K%2B%20Community-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India-ff9933?style=flat-square"/>
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-8957e5?style=flat-square"/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kksarang.kksarang&left_color=%230d1117&right_color=%231f6feb&left_text=Profile%20Views" alt="Profile views"/>
+</p>
+
+</div>
+
+---
+
+## ⚡ At a Glance
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%"><h2>6+</h2><sub>Years in Mobile Dev</sub></td>
+<td align="center" width="20%"><h2>4</h2><sub>Companies</sub></td>
+<td align="center" width="20%"><h2>4</h2><sub>Platforms<br/>Android · iOS · Web · Cross</sub></td>
+<td align="center" width="20%"><h2>68K+</h2><sub>Community Followers</sub></td>
+<td align="center" width="20%"><h2>120M+</h2><sub>Social Reach</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -23,7 +47,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **mobile engineering lead** who ships apps end to end — from architecture and sprint planning to Play Store & App Store release.
+I'm a **mobile engineering lead** who ships apps end to end — from architecture and sprint planning to Play Store & App Store release. I also run one of Kerala's biggest tech communities.
 
 - 🚀 **Application Development Team Lead & Project Head** at **Viewy Digital**, Kochi
 - 👥 Lead cross-functional teams with **Agile** and own the full **product lifecycle**
@@ -31,7 +55,6 @@ I'm a **mobile engineering lead** who ships apps end to end — from architectur
 - 🌐 Founder of **[InfoparkDaily](https://infoparkdaily.online/)** — Kerala's largest tech & business community
 - 🏗️ Founder of **Enitexa.ai** — mobile apps, websites & digital product studio
 - 🎓 B.Tech Computer Science — College of Engineering, Thalassery
-- 💬 Ask me about **Flutter, Android, team leadership, or growing a tech community**
 
 </td>
 <td width="42%" valign="top">
@@ -59,27 +82,96 @@ object Sarang {
 
 ---
 
+## 🔭 Right Now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ Working on**
+- Leading mobile delivery at **Viewy Digital**
+- Growing **InfoparkDaily** — jobs, news & campaigns for Kerala IT
+- Building client products at **Enitexa.ai**
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Focused on**
+- Scalable Flutter architecture for large apps
+- Faster release pipelines for Android & iOS
+- Helping Kerala techies find jobs and grow careers
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Mobile**
+**📱 Mobile**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,react,androidstudio,apple&theme=dark" alt="Mobile stack"/>
 
-**Web & Backend**
+**🌐 Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,firebase&theme=dark" alt="Web stack"/>
 
-**Tools & Workflow**
+**🧰 Tools & Workflow**
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,figma,postman&theme=dark" alt="Tools"/>
 
 </div>
 
+<br/>
+
+| Area | What I bring |
+|---|---|
+| 📱 **Cross-platform** | Flutter & React Native apps from a single codebase for Android and iOS |
+| 🤖 **Native Android** | Kotlin & Java apps built with Android Studio |
+| 🍎 **Native iOS** | Swift apps built with Xcode, App Store releases |
+| 🧭 **Leadership** | Team management, sprint planning, code reviews, client communication |
+| 🔄 **Delivery** | Agile execution and end-to-end product lifecycle ownership |
+| 📣 **Growth** | Community building, reels-first content and digital campaigns |
+
 ---
 
-## 🌐 InfoparkDaily — Kerala's Largest Tech Community
+## 🚀 Featured Ventures
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🌐 InfoparkDaily
+Kerala's largest tech & business community around Infopark Kochi — daily jobs, walk-ins, tech news and brand campaigns.
+
+<a href="https://infoparkdaily.online/"><img src="https://img.shields.io/badge/Visit-infoparkdaily.online-E4405F?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏗️ Enitexa.ai
+A studio for mobile apps, websites and digital products — from idea to launch for startups and businesses.
+
+<a href="https://infoparkdaily.online/software-solutions/"><img src="https://img.shields.io/badge/Explore-Enitexa.ai-8957e5?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 👤 Portfolio
+My personal site with the apps, platforms and digital products I've built and led.
+
+<a href="https://sarangrajan.in/"><img src="https://img.shields.io/badge/Open-sarangrajan.in-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 InfoparkDaily in Numbers
 
 <div align="center">
 
@@ -92,69 +184,79 @@ object Sarang {
 </tr>
 </table>
 
-Daily **Infopark Kochi jobs, walk-ins, tech news & brand campaigns** — connecting professionals, startups, recruiters and local businesses across Kakkanad & Kochi.
-
-<a href="https://infoparkdaily.online/"><img src="https://img.shields.io/badge/Website-infoparkdaily.online-0d1117?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.instagram.com/infoparkdaily/"><img src="https://img.shields.io/badge/@infoparkdaily-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.instagram.com/infoparkdaily.jobs/"><img src="https://img.shields.io/badge/@infoparkdaily.jobs-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/infoparkdaily.media/"><img src="https://img.shields.io/badge/@infoparkdaily.media-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://whatsapp.com/channel/0029VbDJFfA4Y9lm5L4kpm22"><img src="https://img.shields.io/badge/WhatsApp-Job%20Alerts-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 💼 Experience
+## 🗺️ Career Journey
 
-<details open>
-<summary><b>🏢 Viewy Digital Pvt. Ltd</b> &nbsp;·&nbsp; Kochi &nbsp;·&nbsp; <i>Sep 2022 – Present (4+ yrs)</i></summary>
-<br>
-
-**🔹 Application Development Team Lead | Project Head** — *Oct 2023 – Present*
-- Oversee **end-to-end mobile app delivery** from requirements to store release
-- Lead and mentor a **cross-functional team** of developers, designers and QA using Agile/Scrum
-- Own sprint planning, estimation, code reviews, architecture decisions and client communication
-
-**🔹 Mobile Application Developer** — *Mar 2023 – Oct 2023*
-- Built and shipped cross-platform and native mobile apps for client projects
-
-**🔹 Flutter Developer** — *Sep 2022 – Mar 2023*
-- Developed production Flutter apps with REST API integrations and pixel-perfect UI
-
-</details>
-
-<details>
-<summary><b>🏢 VAAS Intelligent Technology Services</b> &nbsp;·&nbsp; Assistant Software Engineer &nbsp;·&nbsp; <i>Feb 2022 – Sep 2022</i></summary>
-<br>
-
-- Contributed to mobile and software projects across the full development cycle
-- API integrations, feature development and production bug fixing
-
-</details>
+```mermaid
+timeline
+    title From Trainee to Team Lead
+    2020 : Native Android Trainee
+         : Zoople Technologies
+    2021 : Native Android Developer
+         : Svaro Wellness
+    2022 : Assistant Software Engineer
+         : VAAS Intelligent Technology
+         : Flutter Developer
+         : Viewy Digital
+    2023 : Mobile Application Developer
+         : Team Lead and Project Head
+    2025+ : Founder - InfoparkDaily and Enitexa.ai
+```
 
 <details>
-<summary><b>🏢 Svaro Wellness | Ayurveda</b> &nbsp;·&nbsp; Native Android Developer &nbsp;·&nbsp; <i>Jan 2021 – Feb 2022</i></summary>
+<summary><b>💼 Full experience details</b> (click to expand)</summary>
 <br>
 
-- Native Android development in **Java and Kotlin**
-- Managed and maintained the company **WordPress website**
+**🏢 Viewy Digital Pvt. Ltd** — Kochi · *Sep 2022 – Present*
 
-</details>
+- **Application Development Team Lead | Project Head** · *Oct 2023 – Present*
+  - Oversee end-to-end mobile app delivery from requirements to store release
+  - Lead a cross-functional team of developers, designers and QA using Agile/Scrum
+  - Own sprint planning, estimation, code reviews, architecture and client communication
+- **Mobile Application Developer** · *Mar 2023 – Oct 2023* — built and shipped cross-platform and native apps
+- **Flutter Developer** · *Sep 2022 – Mar 2023* — production Flutter apps with REST APIs and pixel-perfect UI
 
-<details>
-<summary><b>🏢 Zoople Technologies</b> &nbsp;·&nbsp; Native Android Development Trainee &nbsp;·&nbsp; <i>Aug 2020 – Dec 2020</i></summary>
-<br>
+**🏢 VAAS Intelligent Technology Services** — Assistant Software Engineer · *Feb 2022 – Sep 2022*
+- Full-cycle development, API integrations, feature work and production bug fixing
 
-- Hands-on training in native Android, building real-world apps
+**🏢 Svaro Wellness | Ayurveda** — Native Android Developer · *Jan 2021 – Feb 2022*
+- Native Android apps in Java and Kotlin; managed the company WordPress website
+
+**🏢 Zoople Technologies** — Native Android Development Trainee · *Aug 2020 – Dec 2020*
+- Hands-on native Android training building real-world apps
 
 </details>
 
 ---
 
+## 🔄 How I Ship Apps
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🎨 UI/UX Design]
+    B --> C[🏗️ Architecture]
+    C --> D[⚙️ Sprint Build]
+    D --> E[🧪 QA & Testing]
+    E --> F[🚀 Play Store / App Store]
+    F --> G[📈 Monitor & Iterate]
+    G -.-> D
+```
+
+---
+
 ## 📜 Certifications
 
-![Google](https://img.shields.io/badge/Google-Digital%20Unlocked-4285F4?style=flat-square&logo=google&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Web%20Dev%20Bootcamp-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android%2011-Hands--on%20Development-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Digital%20Unlocked-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Web%20Dev%20Bootcamp-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android%2011-Hands--on%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -188,16 +290,41 @@ Daily **Infopark Kochi jobs, walk-ins, tech news & brand campaigns** — connect
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Fun Facts
+
+<details>
+<summary><b>Click to reveal 🎲</b></summary>
+<br>
+
+- 🧬 Studied **Biology** in higher secondary, then switched to **Computer Science**
+- 🤖 Started as an Android trainee in 2020 and became a Team Lead in about 3 years
+- 📣 Grew a tech community to **68K+ followers** and **120M+ reach** alongside a full-time role
+- 🌏 Built apps across Kerala and Karnataka
+- ☕ Fuelled by Kerala chai and clean architecture
+
+</details>
+
+---
+
+## 🤝 Let's Build Something
 
 <div align="center">
 
-Open to **collaborations, startup ideas, mobile app projects and community partnerships**.
+> 💬 *"Great products come from great teams. Let's build one together."*
+
+Open to **collaborations, startup ideas, mobile app projects, hiring campaigns and community partnerships**.
 
 <a href="https://sarangrajan.in/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sarang-rajan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sarangrajan17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://infoparkdaily.online/"><img src="https://img.shields.io/badge/InfoparkDaily-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/infoparkdaily/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://whatsapp.com/channel/0029VbDJFfA4Y9lm5L4kpm22"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+⭐ *If you like my work, star a repo — it keeps me motivated!*
+
+<a href="#top">⬆️ Back to top</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer)
 
