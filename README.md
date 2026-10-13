@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarang%20Rajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Team%20Lead%20%E2%80%A2%20Flutter%20%26%20Native%20Developer%20%E2%80%A2%20Founder&descAlignY=58&descSize=17" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Sarang%20Rajan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mobile%20Team%20Lead%20%7C%20Flutter%20and%20Native%20Developer%20%7C%20Founder&descAlignY=60&descSize=16)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Application+Team+Lead+%40+Viewy+Digital;Flutter+%E2%80%A2+Android+%E2%80%A2+iOS+%E2%80%A2+React+Native;Kotlin+%E2%80%A2+Java+%E2%80%A2+Swift+%E2%80%A2+Dart;Founder+%E2%80%94+InfoparkDaily+%26+Enitexa.ai;Building+scalable+mobile+products" alt="Typing SVG"/></a>
 
@@ -199,6 +199,6 @@ Open to **collaborations, startup ideas, mobile app projects and community partn
 <a href="mailto:sarangrajan17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://infoparkdaily.online/"><img src="https://img.shields.io/badge/InfoparkDaily-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer)
 
 </div>
